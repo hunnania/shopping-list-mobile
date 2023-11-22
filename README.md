@@ -1,6 +1,8 @@
 # shopping_list
 [![Build status](https://build.appcenter.ms/v0.1/apps/3be30f76-6e43-4d0a-b4fe-07bb0336c4fc/branches/master/badge)](https://appcenter.ms)
 
+https://install.appcenter.ms/orgs/enhypen/apps/shopping-list/distribution_groups/public
+
 A new Flutter project.
 
 ## Getting Started
